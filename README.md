@@ -1,4 +1,3 @@
-!!!
 
          <div class="XY-head-tx">
                     <!-- 男头像 -->
@@ -16,7 +15,7 @@
 
 <p></p>
 
-[RainBowText]
+
 
 		<div class="box"><center> <font><span id="runtime_span"></span> <script type="text/javascript">
 							function show_runtime(){
@@ -40,7 +39,7 @@
 
 
 
-[/RainBowText]
+
 
 
 
@@ -105,21 +104,17 @@
 </style> 
 
 <script src="https://cdn.jsdelivr.net/gh/1426239465/98dou.cn/yinghua/yinghua.js"></script>
-!!!
 
-!!!
 <br>
 <center>
 [audio src="http://hi.sb/music/tlyqszj.m4a" loop="loop"]
 </center>
-!!!
 
 
 
 
 
 
-[photos]
 
 `“预谋已久，得偿所愿”`
 ![](https://hi.sb/qiao/2.jpg) 
@@ -138,7 +133,7 @@
 ###### “讲真的希望我的身边能一直是你”
 ![](https://hi.sb/qiao/1.jpg) 
 
-[/photos]
+
 
 
 
